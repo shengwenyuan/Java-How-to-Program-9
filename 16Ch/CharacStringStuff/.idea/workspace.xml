@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe3a1ca0-e32c-428c-8b94-a22044a46ddf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YARpsAi1yoPPfZSaTuBFlAycbl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="haha" />
+      <module name="16Ch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe3a1ca0-e32c-428c-8b94-a22044a46ddf" name="Default Changelist" comment="" />
+      <created>1582383597863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582383597863</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="376" width="1164" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582383775537">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="771" y="376" width="1164" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582383775537" />
+    <state x="1023" y="475" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582383774410">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1023" y="475" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582383774410" />
+    <state width="2423" height="377" key="GridCell.Tab.0.bottom" timestamp="1582448120386">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1582448120386" />
+    <state width="2423" height="377" key="GridCell.Tab.0.center" timestamp="1582448120385">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1582448120385" />
+    <state width="2423" height="377" key="GridCell.Tab.0.left" timestamp="1582448120385">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1582448120385" />
+    <state width="2423" height="377" key="GridCell.Tab.0.right" timestamp="1582448120385">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1582448120385" />
+    <state width="2423" height="465" key="GridCell.Tab.1.bottom" timestamp="1582393218314">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1582393218314" />
+    <state width="2423" height="465" key="GridCell.Tab.1.center" timestamp="1582393218314">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.center/67.27.2493.1413@67.27.2493.1413" timestamp="1582393218314" />
+    <state width="2423" height="465" key="GridCell.Tab.1.left" timestamp="1582393218314">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.left/67.27.2493.1413@67.27.2493.1413" timestamp="1582393218314" />
+    <state width="2423" height="465" key="GridCell.Tab.1.right" timestamp="1582393218314">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.right/67.27.2493.1413@67.27.2493.1413" timestamp="1582393218314" />
+    <state x="863" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1582455967169">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="863" y="521" key="com.intellij.ide.util.TipDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582455967169" />
+    <state x="752" y="361" width="1112" height="743" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582387379110">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="752" y="361" width="1112" height="743" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.2493.1413@67.27.2493.1413" timestamp="1582387379110" />
+  </component>
+</project>

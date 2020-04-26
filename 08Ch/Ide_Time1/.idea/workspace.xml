@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5542214f-5345-4390-be3e-de341a73d2fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XtLsDqm6bhMMqtXpwL2ci69a2T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestTime1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Time1Test" />
+      <module name="Ide_Time1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5542214f-5345-4390-be3e-de341a73d2fa" name="Default Changelist" comment="" />
+      <created>1581860648361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581860648361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="385" width="1164" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581860745984">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="771" y="385" width="1164" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1581860745984" />
+    <state x="1023" y="474" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581860728571">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1023" y="474" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1581860728571" />
+    <state width="2423" height="465" key="GridCell.Tab.0.bottom" timestamp="1581861097076">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097076" />
+    <state width="2423" height="465" key="GridCell.Tab.0.center" timestamp="1581861097074">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097074" />
+    <state width="2423" height="465" key="GridCell.Tab.0.left" timestamp="1581861097074">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097074" />
+    <state width="2423" height="465" key="GridCell.Tab.0.right" timestamp="1581861097075">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097075" />
+    <state width="2423" height="465" key="GridCell.Tab.1.bottom" timestamp="1581861097079">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097079" />
+    <state width="2423" height="465" key="GridCell.Tab.1.center" timestamp="1581861097077">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.center/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097077" />
+    <state width="2423" height="465" key="GridCell.Tab.1.left" timestamp="1581861097077">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.left/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097077" />
+    <state width="2423" height="465" key="GridCell.Tab.1.right" timestamp="1581861097078">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.right/67.27.2493.1413@67.27.2493.1413" timestamp="1581861097078" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Time1Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

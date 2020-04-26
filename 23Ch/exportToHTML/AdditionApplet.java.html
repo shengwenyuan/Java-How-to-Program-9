@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>AdditionApplet.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cc7832;}
+.s1 { color: #a9b7c6;}
+.s2 { color: #6a8759;}
+.s3 { color: #6897bb;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+AdditionApplet.java</font>
+</center></td></tr></table>
+<pre><span class="s0">import </span><span class="s1">java.awt.*</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">javax.swing.JApplet</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">javax.swing.JOptionPane</span><span class="s0">;</span>
+
+<span class="s0">public class </span><span class="s1">AdditionApplet </span><span class="s0">extends </span><span class="s1">JApplet </span>
+<span class="s1">{</span>
+    <span class="s0">private double </span><span class="s1">sum</span><span class="s0">;</span>
+    
+    <span class="s0">public void </span><span class="s1">init()</span>
+    <span class="s1">{</span>
+        <span class="s1">String firstNumber = JOptionPane.showInputDialog(</span><span class="s2">&quot;Enter first floating-point value&quot;</span><span class="s1">)</span><span class="s0">;</span>
+        
+        <span class="s1">String secondNumber = JOptionPane.showInputDialog(</span><span class="s2">&quot;Enter second floating-point value&quot;</span><span class="s1">)</span><span class="s0">;</span>
+        
+        <span class="s0">double </span><span class="s1">number1 = Double.parseDouble(firstNumber)</span><span class="s0">;</span>
+        <span class="s0">double </span><span class="s1">number2 = Double.parseDouble(secondNumber)</span><span class="s0">;</span>
+        
+        <span class="s1">sum = number1 + number2</span><span class="s0">;</span>
+    <span class="s1">}</span>
+    
+    <span class="s0">public void </span><span class="s1">paint(Graphics g)</span>
+    <span class="s1">{</span>
+        <span class="s0">super</span><span class="s1">.paint(g)</span><span class="s0">;</span>
+        
+        <span class="s1">g.drawRect(</span><span class="s3">15</span><span class="s0">, </span><span class="s3">10</span><span class="s0">, </span><span class="s3">270</span><span class="s0">, </span><span class="s3">20</span><span class="s1">)</span><span class="s0">;</span>
+        
+        <span class="s1">g.drawString(</span><span class="s2">&quot;The sum is &quot; </span><span class="s1">+ sum</span><span class="s0">, </span><span class="s3">25</span><span class="s0">, </span><span class="s3">25</span><span class="s1">)</span><span class="s0">;</span>
+    <span class="s1">}</span>
+<span class="s1">}</span>
+</pre>
+</body>
+</html>

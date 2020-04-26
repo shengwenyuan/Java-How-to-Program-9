@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="788c13b1-8026-4ec6-96af-0ad495654f18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z2BAsaimY1VgB10F1hkoMiGwp3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="788c13b1-8026-4ec6-96af-0ad495654f18" name="Default Changelist" comment="" />
+      <created>1584027167514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584027167514</updated>
+      <workItem from="1584027169739" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="671" y="283" width="1284" height="907" key="SettingsEditor" timestamp="1584027213648">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="671" y="283" width="1284" height="907" key="SettingsEditor/67.34.2493.1406@67.34.2493.1406" timestamp="1584027213648" />
+    <state x="887" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1584027170912">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="887" y="526" key="com.intellij.ide.util.TipDialog/67.34.2493.1406@67.34.2493.1406" timestamp="1584027170912" />
+  </component>
+</project>

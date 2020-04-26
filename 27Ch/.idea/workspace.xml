@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18ea2853-e094-4d8f-b9a6-48281b0c7d8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Networking" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YhWdcnMSbtQf1YsxJJMXkwC6c0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.clib">
+    <configuration name="cli" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TicTacToeClientTest" />
+      <module name="27Ch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clib" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TicTacToeClientTest" />
+      <module name="27Ch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ser" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TicTacToeServerTest" />
+      <module name="27Ch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.cli" />
+      <item itemvalue="Application.clib" />
+      <item itemvalue="Application.ser" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18ea2853-e094-4d8f-b9a6-48281b0c7d8d" name="Default Changelist" comment="" />
+      <created>1583395394606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583395394606</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="376" width="1164" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583483566036">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="771" y="376" width="1164" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1583483566036" />
+    <state x="1077" y="386" width="462" height="693" key="#com.intellij.ide.util.MemberChooser" timestamp="1583479447450">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1077" y="386" width="462" height="693" key="#com.intellij.ide.util.MemberChooser/67.27.2493.1413@67.27.2493.1413" timestamp="1583479447450" />
+    <state x="983" y="456" width="649" height="553" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583466197100">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="983" y="456" width="649" height="553" key="#com.intellij.ide.util.PackageChooserDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1583466197100" />
+    <state x="1023" y="475" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583483564515">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1023" y="475" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1583483564515" />
+    <state width="2423" height="377" key="GridCell.Tab.0.bottom" timestamp="1583484002780">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1583484002780" />
+    <state width="2423" height="377" key="GridCell.Tab.0.center" timestamp="1583484002780">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1583484002780" />
+    <state width="2423" height="377" key="GridCell.Tab.0.left" timestamp="1583484002779">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1583484002779" />
+    <state width="2423" height="377" key="GridCell.Tab.0.right" timestamp="1583484002780">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="377" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1583484002780" />
+    <state x="668" y="208" width="1280" height="1049" key="SettingsEditor" timestamp="1583469571343">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="668" y="208" width="1280" height="1049" key="SettingsEditor/67.27.2493.1413@67.27.2493.1413" timestamp="1583469571343" />
+    <state x="863" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1583465972093">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="863" y="521" key="com.intellij.ide.util.TipDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1583465972093" />
+    <state x="893" y="339" key="run.anything.popup" timestamp="1583400367835">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="893" y="339" key="run.anything.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1583400367835" />
+    <state x="883" y="340" width="858" height="1035" key="search.everywhere.popup" timestamp="1583469516578">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="883" y="340" width="858" height="1035" key="search.everywhere.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1583469516578" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TicTacToeClient.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

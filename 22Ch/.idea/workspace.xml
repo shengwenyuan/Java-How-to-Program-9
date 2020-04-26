@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcea1ac1-1acb-45d8-abe5-ed671cc782ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YU2zKIKxzOLrsbTIjiDfPCCycj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.tretretretrer">
+    <configuration name="tretretretrer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Tree_test" />
+      <module name="22Ch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tttttt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="List_test" />
+      <module name="22Ch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.tretretretrer" />
+      <item itemvalue="Application.tttttt" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcea1ac1-1acb-45d8-abe5-ed671cc782ba" name="Default Changelist" comment="" />
+      <created>1582983113566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582983113566</updated>
+      <workItem from="1584027659340" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="376" width="1164" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582998421370">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="771" y="376" width="1164" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582998421370" />
+    <state x="1077" y="386" width="462" height="693" key="#com.intellij.ide.util.MemberChooser" timestamp="1582984856125">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1077" y="386" width="462" height="693" key="#com.intellij.ide.util.MemberChooser/67.27.2493.1413@67.27.2493.1413" timestamp="1582984856125" />
+    <state x="1023" y="475" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582998420602">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1023" y="475" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582998420602" />
+    <state width="2423" height="465" key="GridCell.Tab.0.bottom" timestamp="1582998748613">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748613" />
+    <state width="2423" height="465" key="GridCell.Tab.0.center" timestamp="1582998748613">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748613" />
+    <state width="2423" height="465" key="GridCell.Tab.0.left" timestamp="1582998748613">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748613" />
+    <state width="2423" height="465" key="GridCell.Tab.0.right" timestamp="1582998748613">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748613" />
+    <state width="2423" height="465" key="GridCell.Tab.1.bottom" timestamp="1582998748614">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748614" />
+    <state width="2423" height="465" key="GridCell.Tab.1.center" timestamp="1582998748613">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.center/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748613" />
+    <state width="2423" height="465" key="GridCell.Tab.1.left" timestamp="1582998748613">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.left/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748613" />
+    <state width="2423" height="465" key="GridCell.Tab.1.right" timestamp="1582998748614">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="465" key="GridCell.Tab.1.right/67.27.2493.1413@67.27.2493.1413" timestamp="1582998748614" />
+    <state x="863" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1584027714145">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="863" y="521" key="com.intellij.ide.util.TipDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1583046342849" />
+    <state x="863" y="526" key="com.intellij.ide.util.TipDialog/67.34.2493.1406@67.34.2493.1406" timestamp="1584027714145" />
+    <state x="752" y="361" width="1112" height="743" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582998733718">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="752" y="361" width="1112" height="743" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.2493.1413@67.27.2493.1413" timestamp="1582998733718" />
+    <state x="892" y="339" key="search.everywhere.popup" timestamp="1582983485280">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="892" y="339" key="search.everywhere.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1582983485280" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

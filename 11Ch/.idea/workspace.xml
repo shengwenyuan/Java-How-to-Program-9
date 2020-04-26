@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8815ae8-7358-467e-b296-a44852342b0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1oQr81rIltqLXgHGTUFMgAS1h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UsingExceptions" />
+      <module name="11Ch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8815ae8-7358-467e-b296-a44852342b0d" name="Default Changelist" comment="" />
+      <created>1582119447948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582119447948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="385" width="1164" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582119998565">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="771" y="385" width="1164" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582119998565" />
+    <state x="1023" y="474" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582119994627">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1023" y="474" width="650" height="515" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582119994627" />
+    <state width="2423" height="461" key="GridCell.Tab.0.bottom" timestamp="1582130326753">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326753" />
+    <state width="2423" height="461" key="GridCell.Tab.0.center" timestamp="1582130326752">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326752" />
+    <state width="2423" height="461" key="GridCell.Tab.0.left" timestamp="1582130326751">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326751" />
+    <state width="2423" height="461" key="GridCell.Tab.0.right" timestamp="1582130326752">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326752" />
+    <state width="2423" height="461" key="GridCell.Tab.1.bottom" timestamp="1582130326755">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.1.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326755" />
+    <state width="2423" height="461" key="GridCell.Tab.1.center" timestamp="1582130326754">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.1.center/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326754" />
+    <state width="2423" height="461" key="GridCell.Tab.1.left" timestamp="1582130326754">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.1.left/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326754" />
+    <state width="2423" height="461" key="GridCell.Tab.1.right" timestamp="1582130326755">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2423" height="461" key="GridCell.Tab.1.right/67.27.2493.1413@67.27.2493.1413" timestamp="1582130326755" />
+    <state x="863" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1582201526569">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="863" y="521" key="com.intellij.ide.util.TipDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1582201526569" />
+    <state x="892" y="340" width="840" height="1035" key="search.everywhere.popup" timestamp="1582125128989">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="892" y="340" width="840" height="1035" key="search.everywhere.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1582125128989" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UsingExceptions.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UsingExceptions.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UsingExceptions.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
